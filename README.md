@@ -1,4 +1,4 @@
-# rps
-Rock Paper Scissor Game JavaScript
-Win 3 Times to the machine.
+# Rock Paper Scissor Game JavaScript
+Win 3 times to the machine.
+
 
